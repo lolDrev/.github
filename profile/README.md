@@ -1,2 +1,2 @@
 ## Hi there 👋
-Drev is an organization behind DrevilYT and Drev itself. We have made tons of open source projects and repositories. Our team members include DrevilYT, Lorep, Ipsum and Idor.
+Drev is an organization behind DrevilYT and Drev itself. We have made tons of open source projects and repositories. Our team members include DrevilYT.
